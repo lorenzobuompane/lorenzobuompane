@@ -1,6 +1,6 @@
 ### Hi there. I'm Lorenzo Buompane 👋
 
-I'm a student of Cybersecurity Master Degree
+I'm a student of Cybersecurity Master Degree  @ **Politecnico di Torino**, *Turin - Italy*
 
 Here some information about my GitHub profile:  
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorenzobuompane&count_private=true&show_icons=true&theme=react&hide=stars&hide_border=true&custom_title=Stats) 
